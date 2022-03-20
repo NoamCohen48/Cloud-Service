@@ -5,10 +5,10 @@ The file is transferred over TCP and uses a custom communication protocol.
 This project is part of Introduction to communication course. 
 
 ### Features
--Monitor for changes in folder and sub-folder such as create, delete, and modify a file and folder. 
--Supports multiple users, each can have multiple computers. 
--Sync between user’s multiple computers. 
--Support in windows and Linux. 
+- Monitor for changes in folder and sub-folder such as create, delete, and modify a file and folder. 
+- Supports multiple users, each can have multiple computers. 
+- Sync between user’s multiple computers. 
+- Support in windows and Linux. 
 
 ## How To Run
 The program uses third party library [Watchdog](https://github.com/gorakhargosh/watchdog).
