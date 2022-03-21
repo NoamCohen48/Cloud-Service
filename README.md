@@ -19,5 +19,5 @@ for example `python3 servery.py 12345`
 
 #### run client
 Client side receive the ip and port of the server, the path to the folder, and sync time
-for example `python3 client.py 1.2.3.4 12345 backup_folder 10`
-with this configuration it will backup to the server in (1.2.3.4, 12345), the folder to backup is `backup_folder` (relative to the code) and will sync every 10 sec. 
+for example `python3 client.py 1.1.1.1 11111 backup_folder 10`
+with this configuration it will backup to the server in (1.1.1.1, 11111), the folder to backup is `backup_folder` (relative to the code) and will sync every 10 sec. 
