@@ -1,6 +1,6 @@
 # Cloud-Service
 Implementation of a cloud backup system.  
-The project includes client and server-side program, the client monitors a chosen folder for changes, and backs up it's content to a server.
+The project includes client and server-side program, the client monitors a chosen folder for changes, and backs up it's content to a server.  
 The server is running the server-side program which manages users and the backup system.  
 The file is transferred over TCP and uses a custom communication protocol.  
 This project is part of Introduction to communication course.  
